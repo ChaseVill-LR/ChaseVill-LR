@@ -1,5 +1,18 @@
 # 💫 About Me:
-I am working at LiveRamp in data onboarding<br>
+## Software Engineer - Team Onboarding
+
+### 🚀 Role Overview
+Infrastructure automation engineer responsible for designing and implementing end-to-end cloud infrastructure solutions for new team onboarding at LiveRamp.
+
+### 🔧 Key Responsibilities
+- **Cloud Infrastructure**: Automate GCP project setup including GKE clusters, CloudSQL databases, Redis instances, and VPC networking
+- **Repository Management**: Provision GitHub repositories with standardized security policies, branch protection, and team permissions  
+- **Monitoring & Observability**: Deploy Datadog dashboards, Grafana alerting, and comprehensive monitoring stacks
+- **Infrastructure as Code**: Develop modular Terraform configurations for consistent, scalable deployments across dev/staging/prod environments
+- **DevOps Integration**: Implement CI/CD pipelines, automated compliance checks, and security scanning
+
+### 🛠️ Technology Stack
+**Cloud**: GCP (GKE, CloudSQL, VPC) | **IaC**: Terraform | **Monitoring**: Datadog, Grafana | **CI/CD**: GitHub Actions, Jenkins | **Languages**: HCL, Python, Bash 
 
 
 ## 🌐 Socials:
